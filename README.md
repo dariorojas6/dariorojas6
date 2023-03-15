@@ -23,7 +23,7 @@ Para poder conseguir mi primer trabajo, y poder brindar todo ese conocimiento ad
     <li>Express.js</li>
     <li>PostgreSQL</li>
     <li>Sequelize</li>
-    <li>MySQL</li>
+    <li>pgAdmin</li>
     <li>Mongo Db</li>
     <li>GIT</li>
     <li>HTML</li>
