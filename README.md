@@ -33,9 +33,9 @@ Para poder conseguir mi primer trabajo, y poder brindar todo ese conocimiento ad
 <h2>Si te interesa saber mas de mi, no dudes en contactarme!😄</h2>
   <ul>
     <li>Dario Rojas | LinkedIn ⬅</li>
-    <li><a href='mailto:dario43055@gmail.com'> Mail: dario43055@gmail.com</a></li>
-    <li>Celular: +543329663004 </li>
-  <li><a href="https://portfolio-dariorojas.vercel.app/" target="_blank">Portafolio</a></li>
+    <li><a href='mailto:dario43055@gmail.com'> Mail: dario43055@gmail.com</a> 📧</li>
+    <li>Celular: +543329663004 📲</li>
+  <li><a href="https://portfolio-dariorojas.vercel.app/" target="_blank">Portafolio</a> 💼</li>
     
   </ul>
 
