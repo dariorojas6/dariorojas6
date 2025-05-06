@@ -4,18 +4,13 @@
 
 ![BANNER-DARI (1)](https://user-images.githubusercontent.com/106130562/218824382-6f343be8-e0f1-4c00-b6a2-94897a57a819.jpg)
 
-<h2>¿Quien soy?</h2>
-<p>Soy un Programador Full Stack, una persona humilde y sencilla.
 
-Como siempre digo, soy alguien muy curioso, cuando se me mete algo en la cabeza no paro hasta conseguirlo. Y asi fue como entre al mundo del Desarrollo, por mi curiosidad de aprender algo completamente nuevo para mi.</p>
-<br/>
-<h2>¿Que hago?</h2>
-<p>Actualmente dedico mi tiempo a mejorar mis habilidades como programador, reforzando mis conocimientos y creando proyectos en base a ellos. 
-Para poder conseguir mi primer trabajo, y poder brindar todo ese conocimiento adquirido.</p>
+<h2>SOBRE MI</h2>
+<p>Tengo 24 Años, actualmente me encuentro cursando la tecnicatura en Desarrollo de Software en el Instituto Superior N 18, ubicado en la ciudad de San Pedro, Provincia de Buenos Aires.</p>
 <br/>
 
 <h2>¿Que tecnologias uso?</h2>
-<p>Gracias a ser alguien muy autodidacta, y a los conocimientos que me brindo el Bootcamp de HENRY🚀. Las principales tecnologias que manejo son:
+<p>Las principales tecnologias que me encuentro estudiando y practicando son:
   <ul>
     <li>Javascript</li>
     <li>React.js</li>
